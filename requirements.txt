@@ -1,0 +1,10 @@
+ACT7/ #Qué hace cada archivo
+│── venv/                  # Entorno virtual (opcional)
+│── models.py              # Modelos de la base de datos
+│── controllers.py         # Controladores y API
+│── migrations.py          # Crea la base de datos
+│── main.py                # Punto de entrada
+│── config.py              # Configuración
+│── requirements.txt       # Lista de dependencias
+│── estructura.sql         # Exportación SQL
+
